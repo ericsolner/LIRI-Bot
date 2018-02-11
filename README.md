@@ -31,8 +31,7 @@ LIRI is a command line node app that takes in parameters and returns data based 
     * A preview link of the song from Spotify
     * The album that the song is from
 
-  * Or if no song is passed through, it will default to
-    *"Florescent Adolescent" by Arctic Monkeys
+
 
 3. `node liri.js movie-this <movie name>`
 
@@ -48,7 +47,7 @@ LIRI is a command line node app that takes in parameters and returns data based 
     * Rotten Tomatoes Rating.
     * Rotten Tomatoes URL.
 
-  * Or if no movie is passed through, it will default to "Mr. Nobody"
+
 
 4. `node liri.js do-what-it-says`
 
